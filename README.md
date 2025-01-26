@@ -90,7 +90,7 @@ pip install opencv-python easyocr imutils numpy matplotlib
 
 ### Image Example
 
-![License Plate Detection Example](results/output_image8.jpg)
+![License Plate Detection Example](/results/output_image8.jpg)
 
 ## Setup and Usage
 
